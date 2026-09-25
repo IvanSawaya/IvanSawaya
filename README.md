@@ -3,8 +3,11 @@
 About:
 
 💻 I'm a computer science student at the University of Ottawa
+
 📆 I'm currently working on a sports trivia project!
+
 📫 How to reach me: ivansawaya@gmail.com  www.linkedin.com/in/ivan-sawaya 
+
 👊 Eager to learn new skills everyday
 
 <!--

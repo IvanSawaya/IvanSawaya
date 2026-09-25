@@ -10,6 +10,11 @@ About:
 
 👊 Eager to learn new skills everyday
 
+🚀 My Featured Projects
+
+- [Mock Hotel 🏨](https://github.com/613Xav/Mock-Hotel-Booking-Website) - A mock hotel booking website
+- [SLINK IT 🏈](https://github.com/IvanSawaya/NFLinkee) - A work in progress sports trivia project!
+
 <!--
 **IvanSawaya/IvanSawaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
